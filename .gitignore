@@ -1,0 +1,5 @@
+server_log.txt
+logs/errors.log
+logs/log-core.log
+logs/warnings.log
+logs/plugins/*.log
