@@ -155,11 +155,13 @@
 #include "./src/business/comandos.pwn"
 
 // Inventory
+#include "./src/inventory/visual.pwn"
 #include "./src/inventory/core.pwn"
 
 // Mobília
 #include "./src/furniture/core.pwn"
 #include "./src/furniture/shop.pwn"
+
 #include "./src/furniture/textures.pwn"
 #include "./src/furniture/inventory.pwn"
 
